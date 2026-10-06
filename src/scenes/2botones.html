@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<style>
+  .container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .btn {
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    color: white;
+  }
+
+  .btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  }
+
+  /* Botón 1 Jugador - Azul */
+  .btn-1p {
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  }
+
+  /* Botón 2 Jugadores - Morado */
+  .btn-2p {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <button class="btn btn-1p">👤 1 Jugador</button>
+  <button class="btn btn-2p">👥 2 Jugadores</button>
+</div>
+
+</body>
+</html>

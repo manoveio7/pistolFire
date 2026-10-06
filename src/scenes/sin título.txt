@@ -1,0 +1,25 @@
+Resumen: Internet Starlink para trabajos de forestación en Uruguay
+
+1. ¿Por qué Starlink?
+Starlink es la opción ideal para el sector forestal, ya que permite obtener conexión de alta velocidad (150-300 Mbps) en áreas remotas o zonas de sombra donde la señal celular es inexistente o inestable.
+
+2. Planes y Precios (Referencia en Uruguay - Junio 2026)
+Es importante aclarar que Starlink no ofrece planes "limitados" (por gigas) para reducir costos; su modelo es de suscripción mensual fija.
+
+- Plan Roam (Movilidad): Es el único plan que permite usar el servicio en tu camioneta mientras te desplazas. 
+  - Costo mensual: Aproximadamente US$ 170 - US$ 180 (Ilimitado).
+  - Inversión inicial (Kit Starlink Mini): Entre US$ 450 y US$ 550, dependiendo del distribuidor.
+
+3. ¿Existe una opción más económica?
+No existen planes residenciales más baratos que funcionen en movimiento. Si intentas usar un plan "Residencial" (fijo) en tu camioneta, el servicio no funcionará.
+
+Sin embargo, puedes reducir costos mediante la gestión de la suscripción:
+- Función "Pausa": Puedes pausar el servicio de Starlink desde la App oficial durante los meses o semanas en los que no realices trabajos forestales. Mientras esté pausado, no se te cobrará la mensualidad.
+
+4. Consejos clave para el trabajo forestal:
+- Instalación: Utiliza el kit "Mini". La antena requiere visión despejada al cielo; asegúrate de instalarla en el techo de la camioneta (evitando ramas u obstáculos directos).
+- Alimentación: Conecta el sistema a 12V/24V directamente a la batería de la camioneta para mayor eficiencia.
+- Verificación: Antes de comprar, descarga la App de Starlink y usa la herramienta de "Visibilidad" para comprobar si los árboles en tus zonas de trabajo permitirán una conexión estable.
+
+Aviso importante:
+Los precios mencionados son estimaciones basadas en el mercado a junio de 2026. Se recomienda verificar los valores finales en la web oficial de Starlink o con distribuidores autorizados al momento de la compra.
